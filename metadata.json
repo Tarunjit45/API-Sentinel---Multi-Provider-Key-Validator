@@ -1,0 +1,5 @@
+{
+  "name": "API Sentinel - Multi-Provider Key Validator",
+  "description": "A high-performance dashboard to verify the status and health of various AI API keys including Google Gemini, OpenAI, and Anthropic Claude.",
+  "requestFramePermissions": []
+}
