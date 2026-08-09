@@ -10,17 +10,17 @@ verify your api key
 
 ## ✨ Key Features & Architecture
 
-- **High-Performance Architecture:** Engineered using modern `TypeScript` best practices.
-- **Modular & Scalable Design:** Structured code organization for easy maintenance and deployment.
-- **AI-Powered Capabilities:** Integrated advanced LLM intelligence for automated insights and processing.
+- **High-Performance Codebase:** Built using `TypeScript` and modern engineering principles.
+- **Modular & Scalable Design:** Structured directory tree for seamless development and deployment.
+- **Artificial Intelligence Integration:** Native support for LLM pipelines, prompt engineering, and intelligent processing.
 
-## 🛠️ Tech Stack & Technologies
+## 🛠️ Tech Stack & Dependencies
 
-- **Primary Language:** `TypeScript`
-- **Frameworks & Libraries:** React 18, TypeScript, Google Gemini API, OpenAI API, Vite
-- **Deployment Target:** Vercel Edge / Cloud Infrastructure
+- **Core Language:** `TypeScript`
+- **Libraries & Tools:** React 18, Vite, Google Gemini API, OpenAI API, TypeScript
+- **Deployment Infrastructure:** Vercel Edge / Cloud Services
 
-## 📁 Project Directory Structure
+## 📁 Architecture & File Layout
 
 ```text
 API-Sentinel---Multi-Provider-Key-Validator/
@@ -39,16 +39,16 @@ API-Sentinel---Multi-Provider-Key-Validator/
 ├── README.md
 ├── components
 ├── components/BulkValidator.tsx
-└── ... [additional source files]
+└── ... [additional codebase files]
 ```
 
-## 🚀 Getting Started
+## 🚀 Quickstart & Installation
 
 ### Prerequisites
 - Node.js (v18.0.0 or higher)
-- npm or yarn
+- npm or yarn package manager
 
-### Installation & Local Setup
+### Setup Instructions
 
 1. **Clone the repository:**
    ```bash
@@ -61,12 +61,12 @@ API-Sentinel---Multi-Provider-Key-Validator/
    npm install
    ```
 
-3. **Start development server:**
+3. **Launch development server:**
    ```bash
    npm run dev
    ```
 
-## 📜 License & Author
+## 📜 Author & License
 
-Engineered with ❤️ by **[Tarunjit Biswas](https://github.com/Tarunjit45)**.  
-Released under the **MIT License**.
+Architected & Developed by **[Tarunjit Biswas](https://github.com/Tarunjit45)**.  
+Distributed under the **MIT License**.
